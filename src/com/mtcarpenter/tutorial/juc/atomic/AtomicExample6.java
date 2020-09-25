@@ -5,7 +5,7 @@ import java.util.function.BinaryOperator;
 
 /**
  * @author mtcarpenter
- * @github https://github.com/mtcarpenter/mall-edu
+ * @github https://github.com/mtcarpenter/JavaTutorial
  * @info 微信公众号：山间木匠
  */
 public class AtomicExample6 {
