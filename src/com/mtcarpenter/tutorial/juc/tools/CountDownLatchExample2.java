@@ -27,7 +27,7 @@ public class CountDownLatchExample2 {
             });
         }
         System.out.println("等待所有年级集合准备.....");
-
+        countDownLatch.await();
         System.out.println("所有年级准备好了，出发.........");
         exec.shutdown();
     }

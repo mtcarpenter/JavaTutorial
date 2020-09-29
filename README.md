@@ -8,3 +8,4 @@
 - [突击并发编程JUC系列-原子更新字段类AtomicStampedReference](https://mp.weixin.qq.com/s/sqqK0B2GH2zBNWCoz48mOw)
 - [突击并发编程JUC系列-JDK1.8 扩展类型 LongAdder](https://mp.weixin.qq.com/s/5hDtf7siTCX3QPEAsbNPCA)
 - [突击并发编程JUC系列-并发工具 CountDownLatch](https://mp.weixin.qq.com/s/unPaVioEQIcW1Co1uyUpCg)
+- [突击并发编程JUC系列-并发工具 CyclicBarrier](https://mp.weixin.qq.com/s/tvb3w1muV_qV9UJD99QDyw)
