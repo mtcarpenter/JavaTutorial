@@ -10,3 +10,4 @@
 - [突击并发编程JUC系列-并发工具 CountDownLatch](https://mp.weixin.qq.com/s/unPaVioEQIcW1Co1uyUpCg)
 - [突击并发编程JUC系列-并发工具 CyclicBarrier](https://mp.weixin.qq.com/s/tvb3w1muV_qV9UJD99QDyw)
 - [突击并发编程JUC系列-并发工具 Semaphore](https://mp.weixin.qq.com/s/DipflI2wQghzx6LwT3OhRA)
+- [突击并发编程JUC系列-ReentrantLock](https://mp.weixin.qq.com/s/pLi_-eDMSjEOQLWEZrN_SQ)
