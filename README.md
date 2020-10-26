@@ -11,5 +11,6 @@
 - [突击并发编程JUC系列-并发工具 CyclicBarrier](https://mp.weixin.qq.com/s/tvb3w1muV_qV9UJD99QDyw)
 - [突击并发编程JUC系列-并发工具 Semaphore](https://mp.weixin.qq.com/s/DipflI2wQghzx6LwT3OhRA)
 - [突击并发编程JUC系列-ReentrantLock](https://mp.weixin.qq.com/s/pLi_-eDMSjEOQLWEZrN_SQ)
-- [突击并发编程JUC系列-ReentrantReadWriteLock](https://mp.weixin.qq.com/s/1fCzvqieR3zNKR6_XjJLTw)
+- [突击并发编程JUC系列-ReentrantReadWriteLock](https://mp.weixin.qq.com/s/4ycppe0aThcmEahH2vq2Iw)
 - [突击并发编程JUC系列-Locksupport 与 Condition](https://mp.weixin.qq.com/s/K9PsOpULPxMynYGBSkIGdA)
+- [突击并发编程JUC系列-并发容器ConcurrentHashMap](https://mp.weixin.qq.com/s/45SwwQO4qGx-6gxrDF-FPA)
