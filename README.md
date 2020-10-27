@@ -14,3 +14,4 @@
 - [突击并发编程JUC系列-ReentrantReadWriteLock](https://mp.weixin.qq.com/s/4ycppe0aThcmEahH2vq2Iw)
 - [突击并发编程JUC系列-Locksupport 与 Condition](https://mp.weixin.qq.com/s/K9PsOpULPxMynYGBSkIGdA)
 - [突击并发编程JUC系列-并发容器ConcurrentHashMap](https://mp.weixin.qq.com/s/45SwwQO4qGx-6gxrDF-FPA)
+- [突击并发编程JUC系列-阻塞队列 BlockingQueue](https://mp.weixin.qq.com/s/w5MRjG59Sjnwi5g4lCEo5w)
