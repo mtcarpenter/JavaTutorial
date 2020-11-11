@@ -15,3 +15,4 @@
 - [突击并发编程JUC系列-Locksupport 与 Condition](https://mp.weixin.qq.com/s/K9PsOpULPxMynYGBSkIGdA)
 - [突击并发编程JUC系列-并发容器ConcurrentHashMap](https://mp.weixin.qq.com/s/45SwwQO4qGx-6gxrDF-FPA)
 - [突击并发编程JUC系列-阻塞队列 BlockingQueue](https://mp.weixin.qq.com/s/w5MRjG59Sjnwi5g4lCEo5w)
+- [突击并发编程JUC系列-ThreadPoolExecutor 线程池](https://mp.weixin.qq.com/s/i1w6uc98NiG8OuVhcsHDEg)
